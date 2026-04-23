@@ -15,8 +15,4 @@ Studio Piano is a browser-based piano simulator built with plain HTML, CSS, and 
 
 Open `index.html` in a modern browser.
 
-## Deploy
 
-This repository includes a GitHub Actions workflow for GitHub Pages deployment.
-
-After enabling GitHub Pages to use **GitHub Actions** in the repository settings, pushes to `main` will publish the site automatically.
